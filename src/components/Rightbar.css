@@ -1,0 +1,103 @@
+
+
+.right-icon {
+    color: #d5edf1;
+    margin-left: 0;
+}
+
+.rightbar-bio {
+    text-align: center;
+}
+
+.rightbar-bio img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.rightbar-name {
+    margin-bottom: 0px;
+}
+
+
+.rightbar-username {
+   color: gray;
+}
+
+
+.rightbar-broadcast {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    margin-bottom: 0px;
+}
+
+.boradcast-icon {
+    font-size: 16px;
+    border-radius: 50%;
+}
+
+
+.broadcast-text {
+    font-size: 12px;
+}
+
+.hr {
+    margin-left: 20px;
+}
+
+
+.rightbar-personal-info {
+   margin: 0px;
+}
+
+.rightbar-personal-info p {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-left: 20px;
+    font-size: 12px;
+}
+
+
+.rightbar-personal-item {
+    margin-top: 8px;
+}
+
+.shared-file {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+}
+
+
+.view-all {
+    color: orangered;
+    font-size: 12px;
+    border: none;
+    padding: 0px;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+
+.rightbar-shared-info {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    flex-direction: column;
+    padding: 0px;
+    margin-left: 20px;
+}
+
+.rightbar-shared-info p {
+    font-size: 12px;
+}
+
+
+.rightbar-shared-item {
+    margin-top: 10px;
+}
